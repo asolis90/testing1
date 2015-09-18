@@ -21,8 +21,6 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        //asdasd
-        // sdasjdiajwdj
         //dddddddddddd
         //adasdasdwqqqqq
         //asdasd
