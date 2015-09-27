@@ -22,6 +22,8 @@ public class MainActivity extends AppCompatActivity {
         //adding feature 5
         //adding master change after 5
         //adding master change after 5
+        //adding feature 6
+        //adding feature 6
 
     }
 
