@@ -13,8 +13,9 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //change feature master
         //asdasdeeeeeeeeee
-        //sasdiauhiuqhwiuqhweuq
-        //asdasd
+        //change master
+        //change master
+        //change master add
         //sdasjdiajwdj
 
     }
@@ -28,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.menu_main, menu);
+        //change master add
         return true;
     }
 
