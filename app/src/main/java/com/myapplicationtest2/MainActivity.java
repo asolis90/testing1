@@ -17,6 +17,8 @@ public class MainActivity extends AppCompatActivity {
         //change master
         //change master add
         //adding something here master
+        //adding something here master
+        //adding feature 5
 
     }
 
@@ -25,13 +27,14 @@ public class MainActivity extends AppCompatActivity {
     //asdiashdoiahsd
     //asdasjdoiajsoidj
     //change something here master 1
+    //adding feature 5
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.menu_main, menu);
-        //change master add
-        //adding something here master 1
+        //changing to feature 5
+        //adding feature 5
         return true;
     }
 
