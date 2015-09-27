@@ -17,20 +17,21 @@ public class MainActivity extends AppCompatActivity {
         //change master
         //change master add
         //adding something here master
-        //adding something here master
 
     }
 
+    //adding something here master 1
     //change feature master
     //asdiashdoiahsd
-    //asdasjdoiajsoidja
-    //asdaosdioqwjiwquqjwieohqhe
+    //asdasjdoiajsoidj
+    //change something here master 1
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.menu_main, menu);
         //change master add
+        //adding something here master 1
         return true;
     }
 
