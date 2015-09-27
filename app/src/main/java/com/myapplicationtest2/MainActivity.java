@@ -23,8 +23,8 @@ public class MainActivity extends AppCompatActivity {
         //adding master change after 5
         //adding master change beofre 6
         //adding master change after 5
-        //adding master change beofre 6
-        //adding master change beofre 6
+        //adding feature 6
+        //adding feature 6
 
     }
 
