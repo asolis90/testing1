@@ -23,6 +23,9 @@ public class MainActivity extends AppCompatActivity {
     //asdiashdoiahsd
     //asdasjdoiajsoidja
     //asdaosdioqwjiwquqjwieohqhe
+    //change new feature 4
+    //change new feature 4
+    //change new feature 4
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
@@ -31,6 +34,9 @@ public class MainActivity extends AppCompatActivity {
         return true;
     }
 
+    //change new feature 4
+    //change new feature 4
+    //change new feature 4
     //assdasdasdasas
     //change feature master
     @Override
