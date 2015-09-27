@@ -14,8 +14,9 @@ public class MainActivity extends AppCompatActivity {
         //change feature 4 -
         //asdasdeeeeeeeeee
         //change master
-        //change master
         //change master add
+        //change feature 4 -
+        //change feature 4 -
         //sdasjdiajwdj
 
     }
@@ -32,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
         getMenuInflater().inflate(R.menu.menu_main, menu);
-        //change master add
+        //change feature 4 -
         return true;
     }
 
